@@ -10,7 +10,7 @@ req_url = 'https://member.expireddomains.net/domains/combinedexpired/'
 # Replace these with a variable and store credentials in a separate file
 payload = {
     'login': 'slicari',
-    'password': ';THE_SHAME_IS_TOO_MUCH'
+    'password': 'THE_SHAME_IS_TOO_MUCH'
 }
 
 with requests.Session() as session:
